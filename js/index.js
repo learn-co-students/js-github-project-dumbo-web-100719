@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded',() => {
     console.log('done')
     searchFormAction()
-    // fetchGitInfo('dmartinezm')
+   
     
 })
 
