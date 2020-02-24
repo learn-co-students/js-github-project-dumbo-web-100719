@@ -10,4 +10,14 @@
 
 ul {
   list-style: none;
+ 
+}
+
+a {
+  display: block;
+}
+
+.repo {
+  display: block;
+
 }
